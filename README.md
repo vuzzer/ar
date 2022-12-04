@@ -1,16 +1,15 @@
 # ar
 
-A new Flutter project.
+How to facilitate the understanding of dosage and test the authenticity of a medication? Medochelp helps you to understand your medication information such as dosage with the help of the RA and nlp and to check if your medication is recommended for a better health.
 
-## Getting Started
+## launch project
 
-This project is a starting point for a Flutter application.
+```
+flutter clean
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot_1670160548](https://user-images.githubusercontent.com/50607415/205512678-8c092f60-cbf0-4dcf-b333-42f627b8a2b4.png)
+![Screenshot_1670160556](https://user-images.githubusercontent.com/50607415/205512693-bbc11db5-ec38-4f94-ab55-192bba669af5.png)
